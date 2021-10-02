@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container{
+    text-align: center;
+}
+
+.Header-logo{
+    padding: 5px;
+}
+
+.main-numeros{
+    padding: 5px;
+}
+
+.main-bottom{
+    padding: 5px;
+}
+
+.footer-resultado{
+    padding: 5px;
+}
